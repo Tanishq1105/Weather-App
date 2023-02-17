@@ -14,7 +14,7 @@ The app will be available at http://localhost:3000/.
 Usage
 To use the app, simply enter the name of a city in the search bar and press Enter. The app will display the current weather information for the specified location. The weather data is provided by OpenWeatherMap. 
 1.	After starting the app, it will go the home page where you will need to add your default location.
- ![WEATHER-APP][ss1.png]
+![Weather-APP](ss1.png) 
  
 2.	It will somewhat look like this, to view prediction for next few days click on the logo on left side and click on forecast weather.
 3.	With the help of home menu, you can revert back.
