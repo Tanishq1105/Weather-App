@@ -25,6 +25,6 @@ To use the app, simply enter the name of a city in the search bar and press Ente
 ![Weather-APP](ss3.png) 
  Note- You need to give it location permission when prompt.
 Since, it uses Open weather API, generate your own key from https://openweathermap.org/ and paste here 
- ![Weather-APP](ss4.png) 
+ 
 
 
